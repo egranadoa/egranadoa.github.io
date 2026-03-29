@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cover.png
+alt: image-alt
+project-date: February 2026
+client: Odoo S.A.
+category: Odoo Customization
+description: Add relations between Maintenance Equipment, Maintenance Requests and Products, to register which products are used in maintenance requests and what products are associated with each maintenance request or equipment.
+external_url: "https://apps.odoo.com/apps/modules/19.0/equipment_request_parts_lists"
+---

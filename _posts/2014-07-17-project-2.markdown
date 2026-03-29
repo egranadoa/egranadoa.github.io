@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: portfolio_wip.png
+alt: image-alt
+project-date: April 2026
+client: Start Bootstrap
+category: Web Development
+description: Odoo Additional fields for many related modules (Sales-Invoices, Inventory-Manufacturing, etc) that shows key information in list views, avoiding accesing on many parallel views or setting non-desirable access permissions to certain roles
+---
