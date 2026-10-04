@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2026-10-04
+img: cover1.png
+alt: image-alt
+project-date: October 2026
+client: Odoo S.A.
+category: Odoo Customization
+description: Estructura territorial completa y precargada de la República Bolivariana de Venezuela para la ficha de Contactos (Personas y Empresas) en Odoo.
+external_url: "https://apps.odoo.com/apps/modules/20.0/ve_country_states_counties"
+---
